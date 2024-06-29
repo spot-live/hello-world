@@ -6,7 +6,7 @@
     <title>User Details Form</title>
 </head>
 <body>
-    <h1>Enter Your Details</h1>
+    <h1>New registrar</h1>
     <form action="process_details.php" method="post">
         <label for="name">Name:</label>
         <input type="text" id="name" name="name" required><br>
@@ -23,7 +23,7 @@
 	<label for="password">PASSWORD</label>
         <input type="number" id="height" name="height" required><br>
 
-        <label for="Repeat pwd">REPEAT PASSWORD</label>
+        <label for="pwd again">REPEAT PASSWORD</label>
         <input type="number" id="weight" name="weight" required><br>
 
         <input type="submit" value="Submit">
