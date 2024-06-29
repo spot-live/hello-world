@@ -20,6 +20,12 @@
         <label for="weight">Weight (in kg):</label>
         <input type="number" id="weight" name="weight" required><br>
 
+	<label for="password">PASSWORD</label>
+        <input type="number" id="height" name="height" required><br>
+
+        <label for="password">REPEAT PASSWORD</label>
+        <input type="number" id="weight" name="weight" required><br>
+
         <input type="submit" value="Submit">
     </form>
 </body>
